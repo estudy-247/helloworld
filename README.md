@@ -1,1 +1,1 @@
-This is test case for Logic Apps
+Azure Logic Apps
